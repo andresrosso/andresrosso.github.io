@@ -83,7 +83,7 @@ His work contributes to **advancing explainable AI (XAI), improving regulatory f
 
 For a full list of publications, patents, and research projects:  
 
-- **[View Publications](#)**  
+- **[View Publications](https://andresrosso.github.io/publications/)**  
 - **[Explore AI & Fintech Research](#)**  
 - **[Connect on LinkedIn](https://www.linkedin.com/in/andres-rosso-mateus/)**  
 

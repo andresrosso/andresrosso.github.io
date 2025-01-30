@@ -9,7 +9,7 @@ redirect_from:
 
 # **Andrés E. Rosso-Mateus, Phd**  
 
-🚀 **Driving innovation in Artificial Intelligence (AI), Large Language Models (LLMs), Blockchain-based financial systems, and enterprise automation.**  
+**Driving innovation in Artificial Intelligence (AI), Large Language Models (LLMs), Blockchain-based financial systems, and enterprise automation.**  
 
 ---
 
@@ -97,4 +97,3 @@ Played a key role in **developing AI-driven fintech solutions**, contributing to
 
 ---
 
-🌍 **"Bridging AI, LLMs, and Blockchain to create secure, scalable, and intelligent financial ecosystems."** 🚀

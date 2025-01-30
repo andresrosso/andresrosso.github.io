@@ -20,6 +20,11 @@ As **Chief Technology Officer (CTO) at KEO**, Dr. Rosso-Mateus integrates **AI a
 
 ---
 
+## **Download My CV**  
+📄 [Click here to download my CV (PDF)](files/CV_Rosso_Mateus.pdf)  
+
+---
+
 ## **Education**  
 
 - **PhD in Computer Science (Cum Laude)**  

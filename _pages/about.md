@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# **Andrés E. Rosso-Mateus, PhD**  
-
 Dr. **Andrés E. Rosso-Mateus** is a **Computer Scientist** specializing in **Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)**. His work integrates **Large Language Models (LLMs), AI-driven fintech innovations, and blockchain-based financial systems**. With over **15 years of experience**, he has contributed to **academic research, industry applications, and the development of scalable AI architectures**.
 
 He currently serves as **Chief Technology Officer (CTO) at KEO**, leading the design of **AI-powered credit risk models, fraud detection systems, and financial automation solutions**. In addition, he is a **Board Director at the Institute for Certification of Computing Professionals (ICCP)**, where he contributes to the development of **LLM certification frameworks and AI competency standards**.

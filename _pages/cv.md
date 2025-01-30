@@ -19,10 +19,8 @@ Dr. Andrés E. Rosso-Mateus is an internationally recognized Computer Scientist 
 As **Chief Technology Officer (CTO) at KEO**, Dr. Rosso-Mateus integrates **AI and blockchain technologies**, driving innovation in **fintech** and enterprise systems. He serves on the **Board of Directors at ICCP**, shaping global standards for **AI certification**.  
 
 ---
-
 ## **Download My CV**  
-📄 [Click here to download my CV (PDF)](files/CV_Rosso_Mateus.pdf)  
-
+📄 [Click here to download my CV (PDF)](../files/CV_Rosso_Mateus.pdf)  
 ---
 
 ## **Education**  

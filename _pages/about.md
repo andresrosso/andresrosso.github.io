@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. **Andrés E. Rosso-Mateus** is a **Computer Scientist** specializing in **Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)**. His work is related with **Large Language Models (LLMs), AI-driven fintech innovations, Biomedical NLP and blockchain-based financial systems**. With over **15 years of experience**, he has contributed to **academic research, industry applications, and the development of scalable AI architectures**.
+Dr. **Andrés E. Rosso-Mateus** is a **Computer Scientist** specializing in **Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)**. His work is related to **Large Language Models (LLMs), AI-driven fintech innovations, Biomedical NLP, and blockchain-based financial systems**. With over **15 years of experience**, he has contributed to **academic research, industry applications, and the development of scalable AI architectures**.
 
 He currently serves as **Chief Technology Officer (CTO) at KEO**, leading the design of **AI-powered credit risk models, fraud detection systems, and financial automation solutions**. In addition, he is a **Board Director at the Institute for Certification of Computing Professionals (ICCP)**, where he contributes to the development of **LLM certification frameworks and AI competency standards**.
 
@@ -31,10 +31,10 @@ His research is at the intersection of **theory and application**, ensuring that
 
 Dr. Rosso-Mateus has contributed to the development of **patented AI-powered financial technologies** that enhance **credit risk assessment, fraud detection, and transaction security**:
 
-- **Settlement Card with Locked-In Merchant Restrictions (US 18/508,280)**  
+- **[Settlement Card with Locked-In Merchant Restrictions (US 18/508,280)](https://patents.google.com/patent/US18508280A1/en)**  
   A patented system designed to improve **transaction security by restricting payments to pre-approved merchants**, reducing fraud risks in digital payments.  
 
-- **ML-Based Creditworthiness System (US 16/183,782)**  
+- **[ML-Based Creditworthiness System (US 16/183,782)](https://patents.google.com/patent/US16183782B2/en)**  
   A machine learning-driven approach for **real-time credit risk assessment**, enabling **automated, data-driven lending decisions**.  
 
 These innovations have played a crucial role in **improving financial decision-making, risk evaluation, and lending ecosystem transparency**.
@@ -55,10 +55,10 @@ His **interdisciplinary approach** ensures that **emerging AI and blockchain tec
 ## **Academic and Professional Achievements**  
 
 - **AI Competition Recognition:**  
-  - **Multiple top placements in BioASQ**, an international AI competition in **biomedical NLP and information retrieval**.  
+  - **Multiple top placements in [BioASQ](http://bioasq.org/)**, an international AI competition in **biomedical NLP and information retrieval**.  
 
 - **Leadership in AI Certification and Governance:**  
-  - **Board Director at ICCP**, defining **LLM certification frameworks, AI governance models, and industry standards** for AI professionals.  
+  - **Board Director at [ICCP](https://www.iccp.org/)**, defining **LLM certification frameworks, AI governance models, and industry standards** for AI professionals.  
 
 - **Fintech and AI Leadership:**  
   - **CTO at KEO**, responsible for **developing AI-driven fintech solutions**, integrating **machine learning for fraud prevention and risk assessment**.  
@@ -88,3 +88,5 @@ For a full list of publications, patents, and research projects:
 - **[Connect on LinkedIn](https://www.linkedin.com/in/andres-rosso-mateus/)**  
 
 ---
+
+### **"Advancing AI and Blockchain for secure, transparent, and intelligent financial ecosystems."**

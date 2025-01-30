@@ -1,49 +1,95 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Dr. Andrés E. Rosso-Mateus"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# **Dr. Andrés E. Rosso-Mateus**  
+## **Computer Scientist | AI Researcher | Fintech & Blockchain Specialist**  
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+🚀 **Driving innovation in Artificial Intelligence (AI), Large Language Models (LLMs), and Blockchain-powered financial systems to transform enterprise automation, risk assessment, and digital finance.**  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## **Professional Overview**  
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Dr. **Andrés E. Rosso-Mateus** is a **Computer Scientist** with over **15 years of experience** specializing in **Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and Blockchain-driven financial systems**. His expertise spans:
+- **Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)**
+- **Biomedical NLP and AI-powered Healthcare Automation**
+- **AI-Driven Fintech, Credit Risk Models, and Fraud Detection**
+- **Blockchain-Based Transaction Systems and Digital Asset Tokenization**
+- **Decentralized Finance (DeFi) and Smart Contract Automation**
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+As **Chief Technology Officer (CTO) at KEO**, Dr. Rosso-Mateus plays a pivotal role in leading **AI-powered fintech solutions**, designing scalable architectures for **real-time credit risk assessment, fraud detection, and blockchain-enhanced financial ecosystems**.
 
-**Markdown generator**
+Beyond industry applications, he serves on the **Board of Directors at the Institute for Certification of Computing Professionals (ICCP)**, contributing to **AI competency frameworks and certification standards**.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+---
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## **Expertise & Research Contributions**  
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Dr. Rosso-Mateus integrates **LLMs, AI, and Blockchain** to build **secure, scalable, and high-impact financial and healthcare AI systems**. His work influences **enterprise automation, financial security, and AI-driven regulatory compliance**.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### **Large Language Models (LLMs) & AI-Powered NLP**  
+Dr. Rosso-Mateus specializes in **LLMs, Retrieval-Augmented Generation (RAG), and AI-driven NLP solutions**. His **research and implementations include**:
+- **Developing domain-specific LLMs for financial decision-making and fraud detection**  
+- **Enhancing information retrieval in Biomedical NLP using RAG frameworks**  
+- **Optimizing prompt engineering and Chain-of-Thought (CoT) reasoning for AI-driven automation**  
+
+🌍 **His AI contributions have been recognized through top placements in global competitions, including BioASQ**, where he consistently ranks among the best in:
+- **Biomedical Information Retrieval**
+- **AI-Powered Question Answering Systems**
+- **Automated Text Processing and Knowledge Extraction**
+
+His research bridges **AI with real-world applications**, ensuring that **LLMs are optimized for security, efficiency, and transparency**.
+
+---
+
+## **Blockchain-Powered Fintech Innovation**  
+
+At **KEO**, Dr. Rosso-Mateus has been actively involved in **Blockchain integration within financial transactions**. His contributions include:
+- **Supporting the development of self-custodial wallets** for secure, peer-to-peer financial transactions.  
+- **Contributing to the implementation of NFT-Based Invoice Tokenization**, ensuring **traceability and fraud prevention** in financial operations.  
+- **Participating in Blockchain-Based Lending Pool Smart Contracts**, enabling decentralized financial transactions.  
+- **Helping to optimize the integration of AI and Blockchain in decentralized financial ecosystems** to improve transaction security.  
+
+His **hands-on involvement in blockchain-based financial projects** has reinforced **security, automation, and transparency in modern fintech applications**.
+
+---
+
+## **Key Achievements**  
+
+✅ **Leadership in LLMs, AI, and Blockchain Integration:**  
+Played a key role in **developing AI-driven fintech solutions**, contributing to **blockchain-powered transaction security and automation** as **CTO at KEO**.  
+
+✅ **AI & Blockchain Implementation for Financial Security:**  
+Supported the integration of **self-custodial wallets, tokenized assets, and decentralized lending models** in fintech applications.  
+
+✅ **Global Recognition in AI & NLP Competitions:**  
+🏆 **Multiple Top Placements in BioASQ**, an international AI competition in **biomedical NLP and information retrieval**.  
+
+✅ **AI Standardization & Certification Leadership:**  
+📌 **Board Director at ICCP**, shaping global AI certification standards for **LLMs, Fintech AI, and NLP applications**.  
+
+✅ **Academic & Industry Impact:**  
+📚 Published in **leading AI conferences and journals**, focusing on **Biomedical AI, LLM applications, and Blockchain-based finance solutions**.  
+
+---
+
+## **Future of AI & Blockchain: Research and Development**  
+
+Dr. Rosso-Mateus is committed to **advancing AI, Blockchain, and Fintech automation** by integrating **LLMs, decentralized finance (DeFi), and AI-driven decision-making systems**. His focus is on:
+✅ **Building AI-powered regulatory frameworks for financial institutions**  
+✅ **Advancing decentralized finance (DeFi) through AI and blockchain innovation**  
+✅ **Scaling AI-driven NLP systems for biomedical and fintech applications**  
+
+🔗 **[View Publications](#)**  
+🔗 **[Explore AI & Fintech Research](#)**  
+🔗 **[Connect on LinkedIn](https://linkedin.com/in/andresrosso)**  
+
+---
+
+🌍 **"Bridging AI, LLMs, and Blockchain to create secure, scalable, and intelligent financial ecosystems."** 🚀

@@ -8,93 +8,131 @@ redirect_from:
 ---
 
 # **Andrés E. Rosso-Mateus, PhD**  
-**Computer Scientist specializing in Artificial Intelligence, Large Language Models, Biomedical NLP, and Blockchain-based financial systems.**
+**Computer Scientist specializing in AI, Biomedical NLP, Blockchain, and Fintech Innovations**
+
+---
+
+## **Executive Summary**  
+
+Dr. Andrés E. Rosso-Mateus is an internationally recognized Computer Scientist with over 15 years of experience in **AI, NLP, and Blockchain-based financial systems**. He has pioneered **AI-driven credit risk models, fraud detection systems, and biomedical NLP solutions**, achieving top placements in global competitions such as **BioASQ**.  
+
+As **Chief Technology Officer (CTO) at KEO**, Dr. Rosso-Mateus integrates **AI and blockchain technologies**, driving innovation in **fintech** and enterprise systems. He serves on the **Board of Directors at ICCP**, shaping global standards for **AI certification**.  
 
 ---
 
 ## **Education**  
-- **PhD in Computer Science** *(Cum Laude)*  
-  Universidad Nacional de Colombia, 2021  
-  *Dissertation:* A Deep Learning Question Answering Method Over Mixed Closed-Domain Information Sources  
 
-- **Master in Computer Science**  
-  Universidad Javeriana, 2013  
+- **PhD in Computer Science (Cum Laude)**  
+  *Universidad Nacional de Colombia, 2021*  
+  - *Thesis:* Deep Learning Question Answering Method Over Mixed Closed-Domain Information Sources  
+
+- **MSc in Computer Science**  
+  *Universidad Javeriana, 2013*  
 
 - **Specialization in Applied Mathematics**  
-  Universidad Sergio Arboleda, 2015  
+  *Universidad Sergio Arboleda, 2015*  
 
-- **B.S. in Computer Science and Engineering**  
-  Universidad Distrital Francisco José de Caldas, 2007  
+- **BSc in Computer Science and Engineering**  
+  *Universidad Distrital Francisco José de Caldas, 2007*  
 
+---
+
+## **Leadership and Board Roles**  
+
+### **Chief Technology Officer (CTO)**  
+**KEO (2021 – Present)**  
+- Patented the **Settlement Card (US 18/508,280)** and developed **AI-driven fintech innovations**.  
+- Enhanced **credit risk models** and **fraud detection systems** with machine learning.  
+- Spearheaded **blockchain integrations**, improving security and scalability in decentralized finance (DeFi).  
+
+### **Director of New Projects**  
+**ICCP Board of Directors (2024 – Present)**  
+- Developed global **AI certification frameworks**, ensuring alignment with cutting-edge industry standards.  
+- Guided strategic decision-making to expand ICCP’s role in professional certification for data professionals.  
+
+
+### **Chief Analytics Officer (CAO)**  
+**MO Technologies (2017 – 2020)**  
+- Invented the **ML-based Creditworthiness System (US 16/183,782)** for real-time loan issuance.  
+- Reduced bad debt rates by integrating advanced **AI pipelines**.
+
+- 
+### **Development Manager**  
+**Experian – DataCrédito (2009 – 2014)**  
+- Built advanced fraud detection products and launched a **microfinance credit-scoring platform**.  
 ---
 
 ## **Professional Experience**  
 
-### **Chief Technology Officer (CTO)**  
-**KEO (2021 – Present)**  
-- Led the development of **AI-driven credit risk models**, **fraud detection systems**, and **blockchain-powered transaction security solutions**.  
-- Contributed to the integration of **Large Language Models (LLMs)** and **graph-based algorithms** for financial lead identification.  
-- Oversaw patented innovations, including:  
-  - **Settlement Card System (US 18/508,280)**  
-  - **ML-Based Creditworthiness System (US 16/183,782)**  
+### **NLP & ML Technical Leader**  
+**YSEOP (2020 – 2021)**  
+- Researched **ontologies and knowledge graphs** for domain-specific text generation.  
 
-### **Director of New Projects**  
-**Institute for Certification of Computing Professionals (ICCP) (2024 – Present)**  
-- Spearheading the design of **AI and LLM certification frameworks**, shaping **global competency standards** for data professionals.  
-- Active contributor to strategic decisions impacting the ICCP's international initiatives.  
+### **Product Architect**  
+**Easy Solutions (2015 – 2016)**  
+- Developed fraud detection systems using **MapReduce** and advanced ML methods.  
 
-### **Chief Analytics Officer (CAO)**  
-**MO Technologies (2017 – 2020)**  
-- Invented a patented **real-time credit risk analysis system**, enhancing **financial inclusion** and **reducing default rates**.  
-- Pioneered **AI-centric strategies** for the fintech sector, integrating **deep learning** into credit scoring and fraud detection.  
+### **Technical Leader**  
+**Netinfo PLC (2009)**  
+- Developed secure internet banking solutions with cross-border compliance.  
+
+---
+
+## **Academic Experience**  
+
+### **PhD Researcher – Biomedical NLP**  
+**Universidad Nacional de Colombia (2016 – 2020)**  
+- Conducted **doctoral research** in Deep Learning, leading to top placements in **BioASQ** competitions.  
+- Developed pipelines integrating **ontologies** and **semantic representations** for biomedical QA.  
+
+### **Professor, Master in AI**  
+**Universidad Sergio Arboleda (2021)**  
+- Taught advanced courses on **NLP, Deep Learning**, and **Reinforcement Learning**.  
+
+### **Instructor in NLP and Deep Learning**  
+**United Nations (2021)**  
+- Delivered training to statisticians on **ML and NLP techniques** for data projects.  
 
 ---
 
 ## **Patents**  
 
-- **Settlement Card with Locked-In Merchant Restrictions**  
-  *US 18/508,280*  
-  - Secures transactions with real-time merchant restrictions, mitigating fraud.  
+- **Settlement Card with Locked-In Merchant Restrictions** *(US 18/508,280)*  
+  Enhanced transaction security by restricting payments to pre-approved merchants.  
 
-- **ML-Based Creditworthiness System**  
-  *US 16/183,782*  
-  - Employs machine learning for instant credit assessments, enabling efficient loan issuance.  
+- **ML-Based Creditworthiness System** *(US 16/183,782)*  
+  Machine learning system for real-time **credit risk assessment**.  
 
 ---
 
 ## **Key Achievements**  
 
-- **1st and 2nd Place** at **BioASQ 11B** (2023): Recognition for excellence in **biomedical information retrieval**.  
-- **ICCP Board Membership**: Leadership role in defining global AI certification standards.  
-- **Mención Especial** at HL7 FHIR Camp (2024): Advanced competency in healthcare data interoperability.  
+- **AI Competition Recognition:**  
+  - Top 1st and 2nd placements in **BioASQ** (2018, 2019, 2023).  
 
----
+- **Blockchain Integration:**  
+  - Integrated **AI and blockchain** for scalable, secure financial solutions.  
 
-## **Research Contributions**  
-
-- **Deep Metric Learning for Passage Retrieval**: Advanced retrieval models for biomedical text, showcased in **CLEF Working Notes**.  
-- **Graph-Based Similarity for Biomedical Retrieval**: Presented at the **7th International Conference on Machine Learning Technologies**.  
-- **Fusion of Term-Similarity Measures for Biomedical QA**: Published in the **Journal of Intelligent and Fuzzy Systems**.  
+- **ICCP Leadership:**  
+  - Designed global standards for **AI certification**.  
 
 ---
 
 ## **Skills**  
 
-- **AI and ML:** LLMs, NLP, generative models, metric learning, and real-time fraud detection.  
-- **Blockchain:** Decentralized finance (DeFi), self-custodial wallets, and smart contracts.  
-- **Programming:** Python, TensorFlow, PyTorch, Spark, Docker, and cloud platforms (AWS, GCP).  
+### **Technical Skills**  
+- **Programming Languages:** Python, TensorFlow, Spark, Docker  
+- **AI Tools:** Deep Learning, NLP, Graph Neural Networks  
+
+### **Leadership Skills**  
+- Managing cross-functional teams  
+- Strategic decision-making for **AI innovation**  
 
 ---
 
-## **Publications**  
+## **Contact Information**  
 
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
----
-
-## **Contact**  
 - **Email:** [andresrosso@gmail.com](mailto:andresrosso@gmail.com)  
 - **GitHub:** [andresrosso](https://github.com/andresrosso)  
 - **LinkedIn:** [Andrés Rosso-Mateus](https://www.linkedin.com/in/andres-rosso-mateus/)  
+- **Website:** [andresrosso.github.io](https://andresrosso.github.io)  

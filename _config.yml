@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Andrés Rosso-Mateus, PhD"
 description              : &description "Computer Scientist with expertise in AI, Machine Learning, and NLP, specializing in Biomedical AI, Fintech, and Large Language Models (LLMs)."
 url                      : https://andresrosso.github.io # Base hostname & protocol for your site
-baseurl                  : "https://andresrosso.github.io/" # Subpath of your site
+baseurl                  : "" # Subpath of your site
 repository               : "andresrosso/andresrosso.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "About Dr. Andrés E. Rosso-Mateus"
+title: "Andrés E. Rosso-Mateus"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# **Dr. Andrés E. Rosso-Mateus**  
-## **Computer Scientist | AI Researcher | Fintech & Blockchain Specialist**  
+# **Andrés E. Rosso-Mateus, Phd**  
 
 🚀 **Driving innovation in Artificial Intelligence (AI), Large Language Models (LLMs), Blockchain-based financial systems, and enterprise automation.**  
 
@@ -63,10 +62,10 @@ His research bridges **AI theory with real-world fintech and healthcare applicat
 
 ## **Blockchain-Powered Fintech Innovation**  
 
-At **KEO**, Dr. Rosso-Mateus has actively contributed to **Blockchain integration within financial transactions**. His work includes:
+At **KEO**, Dr. Rosso-Mateus has actively contributed to:
+
+- **Blockchain integration within financial transactions**. His work includes:
 - **Supporting the development of self-custodial wallets** for secure, peer-to-peer transactions.  
-- **Contributing to the implementation of NFT-Based Invoice Tokenization**, ensuring **traceability and fraud prevention** in financial operations.  
-- **Participating in Blockchain-Based Lending Pool Smart Contracts**, enabling decentralized financial transactions.  
 - **Helping optimize the integration of AI and Blockchain in decentralized financial ecosystems** to improve transaction security.  
 
 His **hands-on involvement in blockchain-based financial projects** has reinforced **security, automation, and transparency in modern fintech applications**.
@@ -74,9 +73,6 @@ His **hands-on involvement in blockchain-based financial projects** has reinforc
 ---
 
 ## **Key Achievements**  
-
-✅ **Leadership in LLMs, AI, and Blockchain Integration:**  
-Played a key role in **developing AI-driven fintech solutions**, contributing to **blockchain-powered transaction security and automation** as **CTO at KEO**.  
 
 ✅ **Patented Fintech & AI Innovations:**  
 Co-inventor of **AI-powered financial technologies**, improving **risk evaluation, fraud detection, and transaction security**.  
@@ -87,17 +83,13 @@ Co-inventor of **AI-powered financial technologies**, improving **risk evaluatio
 ✅ **ICCP Board of Directors – AI Certification & Standardization:**  
 📌 As **Board Director at ICCP**, Dr. Rosso-Mateus helps define **LLM certification frameworks, AI governance, and competency models** for **data professionals worldwide**.  
 
+✅ **Leadership in LLMs, AI, and Blockchain Integration:**  
+Played a key role in **developing AI-driven fintech solutions**, contributing to **blockchain-powered transaction security and automation** as **CTO at KEO**.  
+
 ✅ **Academic & Industry Impact:**  
 📚 Published in **leading AI conferences and journals**, focusing on **Biomedical AI, LLM applications, and Blockchain-based finance solutions**.  
 
 ---
-
-## **Future of AI & Blockchain: Research and Development**  
-
-Dr. Rosso-Mateus is committed to **advancing AI, Blockchain, and Fintech automation** by integrating **LLMs, decentralized finance (DeFi), and AI-driven decision-making systems**. His focus is on:
-✅ **Building AI-powered regulatory frameworks for financial institutions**  
-✅ **Advancing decentralized finance (DeFi) through AI and blockchain innovation**  
-✅ **Scaling AI-driven NLP systems for biomedical and fintech applications**  
 
 🔗 **[View Publications](#)**  
 🔗 **[Explore AI & Fintech Research](#)**  

@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Andrés Rosso-Mateus, PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Andrés Rosso-Mateus, PhD"
+description              : &description "Computer Scientist with expertise in AI, Machine Learning, and NLP, specializing in Biomedical AI, Fintech, and Large Language Models (LLMs)."
+url                      : https://andresrosso.github.io # Base hostname & protocol for your site
+baseurl                  : "https://andresrosso.github.io/" # Subpath of your site
+repository               : "andresrosso/andresrosso.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andrés Rosso-Mateus, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "**Dr. Andrés E. Rosso-Mateus** is a **Computer Scientist** with over 15 years of experience in **Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)**. His expertise spans **Biomedical NLP, Large Language Models (LLMs), financial AI systems, and AI-driven automation**, with a strong focus on **developing scalable, real-world applications** that integrate cutting-edge research with industry needs. As **Chief Technology Officer (CTO) at KEO**, Dr. Rosso-Mateus has led the **design and implementation of AI-powered financial solutions**, including **credit risk assessment models, fraud detection systems, and secure payment technologies**. His work has contributed to the adoption of **advanced AI in fintech, streamlining decision-making processes, improving risk analysis, and enhancing transaction security**. Beyond industry applications, he serves on the **Board of Directors at the Institute for Certification of Computing Professionals (ICCP)**, where he contributes to **defining AI competency frameworks and certification standards**. His research in **biomedical NLP, retrieval-augmented generation (RAG), and AI for healthcare applications** has been published in leading journals and presented at international conferences. Dr. Rosso-Mateus’s work has been recognized through **top placements in global AI competitions**, including **BioASQ**, where he has consistently ranked among the best in **biomedical information retrieval and machine learning for question answering systems**. His **patented innovations** and **academic contributions** reflect a deep commitment to advancing AI technologies across multiple domains, from **finance and enterprise automation to healthcare and AI governance**."
+  location         : "Bogotá, Colombia"
+  employer         : "Keo World"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "andresrosso@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.es/citations?user=3xLDiPEAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "andresrosso"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -130,7 +130,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &andresrosso
 facebook:
   username               :
   app_id                 :

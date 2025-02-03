@@ -9,7 +9,7 @@ tags:
   - Knowledge Graphs
   - Healthcare Innovation
 excerpt: "An advanced AI-powered tool designed to revolutionize how physicians and researchers interact with scientific papers, providing graph-based relationship insights, question answering, concept definitions, summaries, and more."
-date: 2025-02-03
+date: 2024-11-03
 image: /images/medicalread.png
 ---
 

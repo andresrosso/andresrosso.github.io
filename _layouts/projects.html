@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="projects-list">
+  {% for item in site.portfolio %}
+    <div class="project-item">
+      <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+      <p>{{ item.excerpt }}</p>
+      <a href="{{ item.url }}">Read more →</a>
+    </div>
+  {% endfor %}
+</div>

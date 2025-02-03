@@ -17,6 +17,8 @@ image: /images/medicalread.png
 
 The **Biomedical Reader Tool** is a cutting-edge AI-powered application designed to assist physicians, researchers, and medical professionals in rapidly analyzing and comprehending biomedical scientific papers. Leveraging state-of-the-art natural language processing (NLP) and machine learning techniques, the tool offers a suite of advanced features to enhance the user's ability to extract valuable insights, understand complex relationships, and make informed decisions based on academic research.
 
+![Biomedical Reader Tool](/images/medicalread.png)
+
 ---
 
 ## Key Features

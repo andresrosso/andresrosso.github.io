@@ -1,5 +1,7 @@
 ---
 title: "Project Title"
+category: "projects"
+layout: single
 date: 2025-01-01
 excerpt: "A short summary of the project’s objectives and achievements."
 image: /assets/images/project1-thumbnail.jpg

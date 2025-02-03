@@ -1,9 +1,9 @@
 ---
 title: "Project Title"
-date: YYYY-MM-DD
+date: 2025-01-01
 excerpt: "A short summary of the project’s objectives and achievements."
 image: /assets/images/project1-thumbnail.jpg
-permalink: /projects/project-title/
+permalink: /projects/project-1/
 tags:
   - AI
   - ML

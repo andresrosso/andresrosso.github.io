@@ -7,16 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<div id="projects">
-  <h1>{{ page.title }}</h1>
-  <ul>
-    {% for post in site.portfolio %}
-      {% if post.category == "projects" %}
-        <li>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt }}</p>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
+<ul>
+  {% for post in site.portfolio %}
+    {% if post.category == "projects" %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

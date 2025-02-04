@@ -26,10 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "CTO at KEO WORLD | Board Member at ICCP | Expert in NLP & Deep Learning | Fintech & Blockchain Specialist | Biomedical AI expert "
   location         : "Bogotá, Colombia"
-  employer         : 
-                      name: "Keo World"
-                      url: "https://keoworld.com"  # Replace with the actual URL of Keo World
-  uri              : # URL
+  employer         : "Keo World"
+  uri              : "https://keoworld.com"
   email            : "andresrosso@gmail.com" 
 
   # Academic websites

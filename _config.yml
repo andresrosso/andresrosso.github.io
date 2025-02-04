@@ -34,10 +34,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.es/citations?user=3xLDiPEAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-6015-4771"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : 
+  researchgate     : "https://www.researchgate.net/profile/Andres-Mateus"
   scopus           : # URL
 
   # Repositories and software development

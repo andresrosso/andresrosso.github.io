@@ -8,7 +8,8 @@ tags:
   - Biomedical NLP
   - Knowledge Graphs
   - Healthcare Innovation
-excerpt: "An advanced AI-powered tool designed to revolutionize how physicians and researchers interact with scientific papers, providing graph-based relationship insights, question answering, concept definitions, summaries, and more."
+excerpt: "The Biomedical Reader Tool empowers physicians and researchers by providing advanced AI-powered insights into scientific papers. By extracting relationships between entities, generating visual graphs, and offering interactive Q&A capabilities, this tool revolutionizes how medical knowledge is accessed and understood.
+Designed to bridge the gap between complex medical data and actionable insights, the tool integrates cutting-edge technologies like NLP, knowledge graphs, and conversational AI. It is particularly valuable for accelerating clinical decision-making, supporting medical education, and enhancing research productivity."
 date: 2024-11-03
 image: /images/medicalread.png
 ---

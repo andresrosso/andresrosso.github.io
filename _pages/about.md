@@ -41,6 +41,24 @@ These innovations have played a crucial role in improving financial decision-mak
 
 ---
 
+## Recent Projects  
+
+### **Biomedical Reader Tool: AI-Powered Scientific Paper Analyzer**  
+An advanced platform designed to revolutionize how researchers and healthcare professionals engage with scientific literature. Key features include:  
+- Graph-based visualization of relationships among key entities in research papers.  
+- Interactive question-answering, summaries, and key concept definitions.  
+- Dynamic timelines for tracking research developments and breakthroughs.  
+
+### **AI-Driven News Enrichment Platforms: aipresses.com & leelibre.com**  
+A cutting-edge platform that enhances news articles through AI-powered enrichment. The system rewrites articles while incorporating:  
+- Insights from diverse sources, relevant data, and multimedia elements.  
+- Visual timelines for evolving stories to present chronological perspectives on critical issues.  
+- Interactive user engagement through Q&A and curated contextual information.  
+
+[Learn more](./projects/)  
+
+---
+
 ## AI and Blockchain in Financial Technology  
 
 Dr. Rosso-Mateus has contributed to blockchain adoption within financial systems, integrating AI and decentralized finance (DeFi) solutions to enhance financial security and transparency. His work includes:
@@ -81,10 +99,10 @@ His work contributes to advancing explainable AI (XAI), improving regulatory fra
 
 ## Contact and Further Information  
 
-For a full list of publications, patents, and research projects:  
+For more details about Dr. Rosso-Mateus's work:  
 
 - [View Publications](https://andresrosso.github.io/publications/)  
-- [Explore AI & Fintech Research](#)  
-- [Connect on LinkedIn](https://www.linkedin.com/in/andres-rosso-mateus/)  
-
+- [Explore Projects and Innovations](https://andresrosso.github.io/projects/)  
+- [Connect on LinkedIn](https://www.linkedin.com/in/andres-rosso-mateus/)
+  
 ---
